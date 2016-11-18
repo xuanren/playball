@@ -19,7 +19,7 @@
     "selectedColor": "#3cc51f",
     "borderStyle": "black",
     "backgroundColor": "#f1f1f1",
-    "position": "top",
+    "position": "bottom",
     "list": [
       {
         "pagePath": "pages/index/index",
